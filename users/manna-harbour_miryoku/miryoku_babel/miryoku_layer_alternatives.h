@@ -300,10 +300,10 @@ U_NA,              KC_ALGR,           TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  U_NA
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_BTN2,           KC_BTN1,           KC_BTN3,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MOUSE_VI \
-TD(U_TD_BOOT),     TD(U_TD_U_TAP),    TD(U_TD_U_EXTRA),  TD(U_TD_U_BASE),   U_NA,              U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
-KC_LCTL,           KC_LALT,           KC_LGUI,           KC_LSFT,           KC_HYPR,           KC_MS_L,           KC_MS_D,           KC_MS_U,           KC_MS_R,           U_NU,              \
-U_NA,              KC_ALGR,           TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  U_NA,              KC_WH_L,           KC_WH_D,           KC_WH_U,           KC_WH_R,           U_NU,              \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_BTN2,           KC_BTN1,           KC_BTN3,           U_NP,              U_NP
+TD(U_TD_BOOT),     TD(U_TD_U_TAP),    TD(U_TD_U_EXTRA),  TD(U_TD_U_BASE),   U_NA,              KC_AMPR,           KC_ASTR,           KC_LPRN,           KC_RPRN,           KC_PLUS,           \
+KC_LCTL,           KC_LALT,           KC_LGUI,           KC_LSFT,           KC_HYPR,           KC_PERC,           KC_EXLM,           KC_LBRC,           KC_RBRC,           KC_PIPE,           \
+U_NA,              KC_ALGR,           TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  U_NA,              KC_HASH,           KC_DLR,            KC_PERC,           KC_QUES,           KC_",              \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_NP,              U_NP,              KC_0,              KC_COLN,           KC_DLR
 
 #define MIRYOKU_ALTERNATIVES_MOUSE \
 TD(U_TD_BOOT),     TD(U_TD_U_TAP),    TD(U_TD_U_EXTRA),  TD(U_TD_U_BASE),   U_NA,              U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \

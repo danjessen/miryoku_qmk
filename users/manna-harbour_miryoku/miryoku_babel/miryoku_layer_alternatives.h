@@ -302,7 +302,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 #define MIRYOKU_ALTERNATIVES_MOUSE_VI \
 TD(U_TD_BOOT),     TD(U_TD_U_TAP),    TD(U_TD_U_EXTRA),  TD(U_TD_U_BASE),   U_NA,              KC_AMPR,           KC_ASTR,           KC_LPRN,           KC_RPRN,           KC_PLUS,           \
 KC_LCTL,           KC_LALT,           KC_LGUI,           KC_LSFT,           KC_HYPR,           KC_PERC,           KC_EXLM,           KC_LBRC,           KC_RBRC,           KC_PIPE,           \
-U_NA,              KC_ALGR,           TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  U_NA,              KC_HASH,           KC_DLR,            KC_PERC,           KC_QUES,           KC_",              \
+U_NA,              KC_ALGR,           TD(U_TD_U_SYM),    TD(U_TD_U_MOUSE),  U_NA,              KC_HASH,           KC_DLR,            KC_PERC,           KC_QUES,           KC_QUOT,           \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_0,              KC_COLN,           KC_DLR,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MOUSE \
